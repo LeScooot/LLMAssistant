@@ -13,7 +13,7 @@ count = 1
 talking = False
 
 # Initialize OpenAI with your API key
-openai = OpenAI(api_key="sk-proj-qFtAPWc457lOM9emeNXfT3BlbkFJCSHj9Pd74lZeMfubjFaN")
+openai = OpenAI(api_key="")
 
 # Initialize speech recognizer and text-to-speech engine
 r = sr.Recognizer()
